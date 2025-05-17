@@ -1,6 +1,6 @@
 #  Are We Really Making Recommendations Robust? Revisiting Model Evaluation for Denoising Recommendation
 
-This anonymized repository for our paper submitting to RecSys25 Reproducibility track.
+This anonymized repository for our paper submitted to RecSys25 Reproducibility track.
 
 ## Abstract
 
