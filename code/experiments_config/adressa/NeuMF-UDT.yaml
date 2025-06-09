@@ -1,0 +1,19 @@
+# training parameters
+lr: 0.001
+batch_size: 2048
+top_k: [5, 10, 20, 50, 100]
+test_batch_size: 6596
+
+
+# model parameters
+dropout: 0.0
+factor_num: 32
+num_layers: 3
+num_ng: 1
+dropout: 0.0
+
+# UDT Denoising parameters
+temp1: 0.2
+temp2: 0.5
+userfact1: 0.5
+userfact2: 0.0
